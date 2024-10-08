@@ -1,5 +1,4 @@
-## Olá, Seja bem vindo!:yellow_heart:
-
+## Olá, Seja bem vindo!💛💛💛
  <div>
    <a href="https://github.com/Carol-Mammarella">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carol-Mammarella&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
