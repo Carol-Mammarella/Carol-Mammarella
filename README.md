@@ -1,4 +1,4 @@
-## Olá, Seja bem vindo!:yellow_heart::yellow_heart:
+## Olá, Seja bem vindo!:yellow_heart:
 
  <div>
    <a href="https://github.com/Carol-Mammarella">
